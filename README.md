@@ -1,10 +1,10 @@
-# Be Good Solutions
+# BeGOOD Solutions
 
-Welcome to the Be Good Solutions GitHub organization.
+Welcome to the BeGOOD Solutions GitHub organization.
 
 ## About us
 
-Be Good Solutions is a remote-first software development company founded in 2017.  
+BeGOOD is a remote-first software development company founded in 2017.  
 We help teams turn ideas into reliable digital products through practical engineering and strong collaboration.
 
 ## Our values
